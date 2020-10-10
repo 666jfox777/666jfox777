@@ -1,16 +1,13 @@
-### Hi there 👋
+### Justin Fox: Cloud Enthusiast
 
-<!--
-**666jfox777/666jfox777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Justin Fox is a Director of Software Engineering at
+[Mastercard](https://justinfox.me/mastercard/) working in the
+[NuData Security](https://justinfox.me/nudata/)
+group. In addition to their role at Mastercard, they work as an
+AWS Academy Accredited Instructor for BCIT and UBC. They are an
+aspiring novelist working on releasing a fantasy-fiction novel
+in 2021. Justin's pronouns are they/them.
 
-Here are some ideas to get you started:
+View their profile on: [LinkedIn](https://ca.linkedin.com/in/666jfox777/) | [Twitter](https://twitter.com/666jfox777)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+View their website: [justinfox.me](https://justinfox.me/)
