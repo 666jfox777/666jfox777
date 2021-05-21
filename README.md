@@ -1,6 +1,6 @@
-### Justin Fox: Cloud Enthusiast
+### Justine Fox: Cloud Enthusiast
 
-Justin Fox is a Director of Software Engineering at
+Justine Fox is a Director of Software Engineering at
 [Mastercard](https://justinfox.me/mastercard/) working in the
 [NuData Security](https://justinfox.me/nudata/)
 group. In addition to their role at Mastercard, they work as an
