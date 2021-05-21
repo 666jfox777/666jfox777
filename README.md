@@ -6,7 +6,7 @@ Justine Fox is a Director of Software Engineering at
 group. In addition to their role at Mastercard, they work as an
 AWS Academy Accredited Instructor for BCIT and UBC. They are an
 aspiring novelist working on releasing a fantasy-fiction novel
-in 2021. Justin's pronouns are they/them.
+in 2021. Justine's pronouns are they/them.
 
 View their profile on: [LinkedIn](https://ca.linkedin.com/in/666jfox777/) | [Twitter](https://twitter.com/666jfox777)
 
